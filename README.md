@@ -42,18 +42,18 @@
     </tr>
     <tr>
         <td>
-            SimpleToolkit.MVVM
-        </td>
-        <td>
-            <a href="https://www.nuget.org/packages/SimpleToolkit.MVVM/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.MVVM.svg?style=flat-square"></a>
-        </td>
-    </tr>
-    <tr>
-        <td>
             SimpleToolkit.Attributes
         </td>
         <td>
             <a href="https://www.nuget.org/packages/SimpleToolkit.Attributes/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.Attributes.svg?style=flat-square"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            SimpleToolkit.MVVM
+        </td>
+        <td>
+            <a href="https://www.nuget.org/packages/SimpleToolkit.MVVM/"><img src="https://img.shields.io/nuget/v/SimpleToolkit.MVVM.svg?style=flat-square"></a>
         </td>
     </tr>
     <tr>
